@@ -1,0 +1,192 @@
+{
+"questions" : [{
+  "questionText":"which one of the following does Typescript use to specify Types",
+  "options":[
+  {
+    "text":":",
+    "correct":true
+
+  },
+  {
+    "text":";"
+  },
+  {
+    "text":"!"
+  },
+  {
+    "text":","
+  }
+],
+  "explanation": "Ts uses colon to separate the property name from the property type"
+
+},
+{
+  "questionText":"which one of the following does Typescript use to specify Types",
+  "options":[{
+    "text":":",
+    "correct":true
+
+  },
+  {
+    "text":";"
+  },
+  {
+    "text":"!"
+  },
+  {
+    "text":","
+  }
+],
+"explanation": "Ts uses colon to separate the property name from the property type"
+},
+ {
+  "questionText":"which one of the following does Typescript use to specify Types",
+  "options":[
+  {
+    "text":":",
+    "correct":true
+
+  },
+  {
+    "text":";"
+  },
+  {
+    "text":"!"
+  },
+  {
+    "text":","
+  }
+],
+  "explanation": "Ts uses colon to separate the property name from the property type"
+
+},
+{
+  "questionText":"which one of the following does Typescript use to specify Types",
+  "options":[
+  {
+    "text":":",
+    "correct":true
+
+  },
+  {
+    "text":";"
+  },
+  {
+    "text":"!"
+  },
+  {
+    "text":","
+  }
+],
+  "explanation": "Ts uses colon to separate the property name from the property type"
+
+},
+{
+  "questionText":"which one of the following does Typescript use to specify Types",
+  "options":[
+  {
+    "text":":",
+    "correct":true
+
+  },
+  {
+    "text":";"
+  },
+  {
+    "text":"!"
+  },
+  {
+    "text":","
+  }
+],
+  "explanation": "Ts uses colon to separate the property name from the property type"
+
+},
+{
+  "questionText":"which one of the following does Typescript use to specify Types",
+  "options":[
+  {
+    "text":":",
+    "correct":true
+
+  },
+  {
+    "text":";"
+  },
+  {
+    "text":"!"
+  },
+  {
+    "text":","
+  }
+],
+  "explanation": "Ts uses colon to separate the property name from the property type"
+
+},
+{
+  "questionText":"which one of the following does Typescript use to specify Types",
+  "options":[
+  {
+    "text":":",
+    "correct":true
+
+  },
+  {
+    "text":";"
+  },
+  {
+    "text":"!"
+  },
+  {
+    "text":","
+  }
+],
+  "explanation": "Ts uses colon to separate the property name from the property type"
+
+},
+{
+  "questionText":"which one of the following does Typescript use to specify Types",
+  "options":[
+  {
+    "text":":",
+    "correct":true
+
+  },
+  {
+    "text":";"
+  },
+  {
+    "text":"!"
+  },
+  {
+    "text":","
+  }
+],
+  "explanation": "Ts uses colon to separate the property name from the property type"
+
+},
+{
+  "questionText":"what is Typescript",
+  "options":[
+  {
+    "text":":"
+    
+
+  },
+  {
+    "text":"A javascript fremework",
+    "correct":true
+  },
+  {
+    "text":"!"
+  },
+  {
+    "text":","
+  }
+],
+  "explanation": "Ts uses colon to separate the property name from the property type"
+
+}
+
+]
+}
